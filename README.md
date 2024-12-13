@@ -39,5 +39,5 @@ For a detailed overview, including table structures, SQL code, and screenshots o
 ## Contact
 If you have any questions or need further assistance, please reach out to me at [ronit.shetty123456789@gmail.com].
 
-##Contributors
+## Contributors
 A special thanks to **Abdulla Dalwai** and **Aaryaman Jagani** for their exceptional contributions to this project. Their collaborative efforts have made this system robust and efficient.
